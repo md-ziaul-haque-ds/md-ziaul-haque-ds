@@ -26,8 +26,8 @@ Projects will be added here as they are completed.
 
 
 📫 Connect With Me
-**LinkedIn:** www.linkedin.com/in/mdziaulhaque-datascience
-**Email:** mdziaulhaque.ds@gmail.com
+* *LinkedIn:* www.linkedin.com/in/mdziaulhaque-datascience
+* *Email:* mdziaulhaque.ds@gmail.com
 
 
 
